@@ -1,0 +1,6 @@
+pandas
+tenacity
+openai
+streamlit
+python-dotenv
+watchdog
