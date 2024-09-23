@@ -1,6 +1,6 @@
-Refer GPTQuery.ipynb file for code base. 
-Refer docs link: https://platform.openai.com/docs/overview
-Below are the steps to build/finetune GEN AI application.
+- Refer GPTQuery.ipynb file for code base. 
+- Refer docs link: https://platform.openai.com/docs/overview
+- Below are the steps to build/finetune GEN AI application.
 
 Data Preparation:
  1. Data was collected from various sources where SQL Query and questions are given.
